@@ -54,6 +54,9 @@ Binaries/*
 # Builds
 Build/*
 
+# Horror Environment Assets
+Content/HorrorEnvironment_AbandonedManor/*
+
 # Whitelist PakBlacklist-<BuildConfiguration>.txt files
 !Build/*/
 Build/*/**
